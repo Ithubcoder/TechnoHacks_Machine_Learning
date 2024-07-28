@@ -13,7 +13,7 @@ By analyzing factors such as acidity, alcohol content, sugar levels, and pH, our
 Our objective is to develop a reliable prediction tool that winemakers and enthusiasts can use to evaluate wine quality, ensuring consistency and excellence in production. Through this project, we aim to bridge the gap between traditional wine tasting methods and modern technological advancements, contributing to the evolving landscape of the wine industry.
 
 # Task - 3 :- Fraud Transaction Detection Project
-# Dataset Link :- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+# Dataset File Link :- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 In today's digital economy, financial transactions are increasingly vulnerable to fraud. Detecting fraudulent activities swiftly and accurately is essential for safeguarding individuals and organizations from significant financial losses. Our Fraud Transaction Detection Project leverages advanced machine learning techniques to identify suspicious transactions in real-time.
 
 By analyzing transaction patterns, user behavior, and various other features, our model can distinguish between legitimate and fraudulent transactions. This project highlights the critical role of data science in enhancing financial security, demonstrating how predictive analytics can proactively combat fraud.

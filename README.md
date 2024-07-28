@@ -1,4 +1,4 @@
-#Task - 1 :- Diabetes Prediction Project
+# Task - 1 :- Diabetes Prediction Project
 Diabetes is a chronic condition that affects millions of people worldwide. Early detection and management are crucial for preventing serious health complications associated with the disease. Our Diabetes Prediction Project aims to leverage machine learning techniques to accurately predict the likelihood of diabetes in individuals based on various health indicators.
 
 By analyzing features such as age, BMI, blood pressure, glucose levels, and family history, our model can provide valuable insights into an individual's risk of developing diabetes. This project not only highlights the power of data science in healthcare but also emphasizes the importance of early diagnosis and intervention.
